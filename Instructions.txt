@@ -1,0 +1,9 @@
+How to run:
+
+For LAN Chat:
+1. Run the WinForms version of TCPServer.exe
+2. Run TCPClient.exe
+
+For Internet Chat:
+1. Run the console version of TCPServer.exe on a Google Cloud virtual machine.
+2. Run TCPClient.exe
